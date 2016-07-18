@@ -1,10 +1,10 @@
 ## About:
 
-[Docker](http://www.docker.com/) image based on [digitalwonderland/base](https://registry.hub.docker.com/u/digitalwonderland/base/)
+[Docker](http://www.docker.com/) image based on [Alpine Linux](https://hub.docker.com/_/alpine/).
 
 ## Additional Software:
 
-* [Apache ZooKeeper](http://zookeeper.apache.org/)
+* [Apache ZooKeeper](http://zookeeper.apache.org/) (dependencies: bash, curl, openjdk7-jre)
 
 ## Usage:
 
