@@ -1,3 +1,5 @@
+# DEPRECATED
+
 ## About:
 
 [Docker](http://www.docker.com/) image based on [Alpine Linux](https://hub.docker.com/_/alpine/).
